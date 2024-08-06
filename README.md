@@ -1,6 +1,6 @@
 # Step
 
-- Using GAT to obtain relationships between stocks -> GAT folder
+- Using GAT to obtain relationships between stocks -> GAT-main folder
 
 - Training a Stock-Picked Agent to obtain a portfolio of stocks with minimal risk ->
 
