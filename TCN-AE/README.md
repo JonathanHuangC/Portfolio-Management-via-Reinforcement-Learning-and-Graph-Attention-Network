@@ -7,5 +7,5 @@
 
 # Usage
 
-- You need to download the data from the following link: (https://drive.google.com/file/d/1_Mmf2ri5eOIiZVtDW342kzUWJGYJa19K/view?usp=sharing)
+- You need to download the data from the following link: ([https://drive.google.com/file/d/1_Mmf2ri5eOIiZVtDW342kzUWJGYJa19K/view?usp=sharing](https://drive.google.com/file/d/1_Mmf2ri5eOIiZVtDW342kzUWJGYJa19K/view?usp=sharing))
 - Run train stock-picked agent.ipynb
