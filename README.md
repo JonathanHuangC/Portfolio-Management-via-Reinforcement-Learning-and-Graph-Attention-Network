@@ -1,3 +1,15 @@
+# Requirements
+- Windows 11
+- Python version:3.8.18
+- [requirements.txt](https://github.com/user-attachments/files/16596740/requirements.txt)
+
+
+# Data
+
+The data required for each model is already in its respective folder. If you need to download new data, you can refer to 'get Financial Statements.ipynb' and 'get Trading Data.ipynb'. 
+To use these scripts, you will need to apply for a FinLab token in advance.
+
+
 # Step
 
 - Using GAT to obtain relationships between stocks -> GAT-main
@@ -9,10 +21,6 @@
 - Training a Trading Agent to execute daily stock operations -> Trading Agent
 
 
-# Requirements
-- Windows 11
-- Python version:3.8.18
-- [requirements.txt](https://github.com/user-attachments/files/16596740/requirements.txt)
 
 
 # Reference
