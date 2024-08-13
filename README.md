@@ -7,7 +7,7 @@
 # Data
 
 The data required for each model is already in its respective folder. If you need to download new data, you can refer to 'get Financial Statements.ipynb' and 'get Trading Data.ipynb'. 
-To use these scripts, you will need to apply for a FinLab token in advance.
+To use these scripts, you will need to apply for a FinMind token in advance.
 
 
 # Step
