@@ -15,3 +15,5 @@ The Graph Attention Network is a powerful graph neural network model for learnin
 Train the GAT model by running the the `train.py` script as follows:: (Example using the default parameters)
 
 "python train.py --epochs 10000 --lr 0.0005 --l2 5e-4 --dropout-p 0.6 --num-heads 8 --hidden-dim 1024 --val-every 1000"
+
+GAT forms a graph for each quarter's financial statements, with the graph's nodes divided into train nodes, validation nodes, and test nodes. When a new quarter's financial statements is available, the model needs to be retrained.
