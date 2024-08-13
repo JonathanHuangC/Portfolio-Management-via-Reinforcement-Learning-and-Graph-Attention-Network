@@ -10,6 +10,8 @@
 
 
 # Requirements
+- Windows 11
+- Python version:3.8.18
 - [requirements.txt](https://github.com/user-attachments/files/16596740/requirements.txt)
 
 
