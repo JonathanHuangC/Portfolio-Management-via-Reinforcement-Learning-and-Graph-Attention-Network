@@ -9,9 +9,10 @@
 - Training a Trading Agent to execute daily stock operations -> Trading Agent
 
 
+# Requirements
+- [requirements.txt](https://github.com/user-attachments/files/16596740/requirements.txt)
+
 
 # Reference
 
 Each technical reference link is located within its respective folder.
-
-[requirements.txt](https://github.com/user-attachments/files/16596740/requirements.txt)
