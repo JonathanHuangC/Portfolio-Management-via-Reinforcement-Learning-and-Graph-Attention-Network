@@ -13,3 +13,5 @@
 # Reference
 
 Each technical reference link is located within its respective folder.
+
+[requirements.txt](https://github.com/user-attachments/files/16596740/requirements.txt)
