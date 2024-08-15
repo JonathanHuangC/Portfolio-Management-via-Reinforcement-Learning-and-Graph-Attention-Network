@@ -1,3 +1,6 @@
+
+
+
 # Reference
 
 - Code reference: (https://github.com/AI4Finance-Foundation/FinRL)
@@ -11,7 +14,7 @@ If you need to train the Stock-Picked Agent, please refer to the following conte
 
 - Input data : Input for Stock-Picked Agent train.csv
 - Run train stock-picked agent.ipynb
-
+- Combining financial statements with GAT edges: combine Financial statements and GAT edge.ipynb.
 
 
 # Use the trained model to make predictions
