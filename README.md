@@ -1,7 +1,8 @@
 # Requirements
 - Windows 11
 - Python version:3.8.18
-- [requirements.txt](https://github.com/user-attachments/files/16620810/requirements.txt)
+- [requirements.txt](https://github.com/user-attachments/files/16647022/requirements.txt)
+
 
 
 # Data
